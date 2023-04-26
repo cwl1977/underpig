@@ -1,7 +1,6 @@
 香港推流,#genre#
 
 无线新闻台EPG-20230424,https://epg.pw/stream/8a901f8dbc93b286fc53ceceda0a7198f41dfd91a2ca2a528e314aea87eb806b.m3u8
-無線新聞147,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 无线新闻162-20230424,http://162.19.247.76:22222/live/tvbnews/index.m3u8
 翡翠epg20230425-1,https://epg.pw/stream/9af8209cef466613106eb6e2d315e6a7909606bd097e3091f7a09b457bf37340.m3u8
 翡翠epg20230425-2,https://epg.pw/stream/627eaf0403cb6a2162a083c10216807c5ae6be89da9fff306138eccc052a91aa.ctv
@@ -16,16 +15,15 @@
 明珠台pull20230421,https://pull-l3-cny.douyincdn.com/live/stream-19882782023041723128.m3u8?by=yeslivetv_com
 ViuTV-pull20230421,https://pull-l3-cny.douyincdn.com/live/stream-19882782023041723016.m3u8?by=yeslivetv_com
 星河FLV20230423,http://flv.mp4cdn.live/gt-key=00569874.php?id=4
-j2-162-20230424,http://162.19.247.76:22222/live/tvbj2/index.m3u8
-无线财经资讯台162-20230424,http://162.19.247.76:22222/live/tvbj5/index.m3u8
-翡翠台xjayrf-20230418,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
-翡翠台120-20230418,http://120.84.96.73:808/hls/25/index.m3u8
-翡翠台epg20230402,https://epg.pw/stream/9af8209cef466613106eb6e2d315e6a7909606bd097e3091f7a09b457bf37340.m3u8
 无线J2台162-20230418,http://162.19.247.76:22222/live/tvbj2/index.m3u8
+无线财经资讯台162-20230424,http://162.19.247.76:22222/live/tvbj5/index.m3u8
 无线财经107-20230418,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 无线财经资讯台120-20230418,http://120.84.96.73:808/hls/86/index.m3u8
 明珠台jd-20230418,http://r.jdshipin.com/ZQ4kN
 明珠台120.84.96.73-20230418,http://120.84.96.73:808/hls/26/index.m3u8
+翡翠台epg20230402,https://epg.pw/stream/9af8209cef466613106eb6e2d315e6a7909606bd097e3091f7a09b457bf37340.m3u8
+翡翠台xjayrf-20230418,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
+翡翠台120-20230418,http://120.84.96.73:808/hls/25/index.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 天映經典epg20230425-1,https://epg.pw/stream/fd6da1db9f3923f143ddd41a2fe72222524f7d52d46f29b6a16fc424a1665640.m3u8
 天映經典epg20230425-2,https://epg.pw/stream/d311fb679a4c3e184f0c89fc345c1619f6594b1a6fd374149be5c92dc1118f67.m3u8
@@ -44,11 +42,8 @@ j2-162-20230424,http://162.19.247.76:22222/live/tvbj2/index.m3u8
 
 无线财经107-20230423,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 无线新闻162-20230424,http://162.19.247.76:22222/live/tvbnews/index.m3u8
-TVB星河频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571186&extension=ts
 TVB经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
 凤凰资讯162-20230424,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-国家地理频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941665
-国家地理野生频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941664
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 CNN,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941690
 FOXNews Channel,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941685
@@ -91,17 +86,15 @@ AOD162-20230424,http://162.19.247.76:22222/live/uch7/index.m3u8
 
 台湾推流1,#genre#
 
-民视新闻HD20230425,https://epg.pw/stream/8d03a56b3e4a967c809e4dccaaff6847ed1e426f84fee1b27fd9cc0580ee06ad.m3u8
 三立新闻台123-20230418,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 中天娱乐台162-20230418,http://162.19.247.76:22222/live/ztyl/index.m3u8
-中天综合台pull-l3-cny,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
 中天综合107-20230421,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天综合23-20230421,http://23.237.10.66:16372
-民視20230421@@4[1280x720][4.0mb],rtmp://9wv7.mine.nu/sat/tv051
 三立新闻123-20230320,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 三立都会台epg-20230404-1,https://epg.pw/stream/d21f8d5202133eda2315bd4e7359209708b513f72bca85ffa82427371a178592.m3u8
 三立台湾台-sanlihalivel2023419,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3
-三立台湾台(备),mitv://generationnexxxt.com:19806/f90a56451fae47de9d5ca37b52780f30
+民視20230421@@4[1280x720][4.0mb],rtmp://9wv7.mine.nu/sat/tv051
+民视新闻HD20230425,https://epg.pw/stream/8d03a56b3e4a967c809e4dccaaff6847ed1e426f84fee1b27fd9cc0580ee06ad.m3u8
 东风37-123,http://123.51.230.108:18560/.m3u8
 东森洋片台162-20230404,http://162.19.247.76:22222/live/dsypt/index.m3u8
 东森电影120.84.96.73-20230328,http://120.84.96.73:808/hls/32/index.m3u8
