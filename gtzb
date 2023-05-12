@@ -1,5 +1,6 @@
 港台209,#genre#
 
+华丽翡翠台23,http://23.237.10.66:16410
 无线翡翠台209,http://209.141.47.175/kstv2.php?id=1
 无线新闻209,http://209.141.47.175/kstv2.php?id=3
 无线财经体育资讯台209,http://209.141.47.175/kstv2.php?id=8
@@ -135,56 +136,26 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
 港台162,#genre#
 
-凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
-中天娱乐台,http://162.19.247.76:22222/live/ztyl/index.m3u8
-中天亚洲台,http://162.19.247.76:22222/live/ztyz/index.m3u8
-翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
-J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
-TVB J5,http://162.19.247.76:22222/live/tvbj5/index.m3u8
-三立台湾,http://162.19.247.76:22222/live/uch5/index.m3u8
-三立都会台,http://162.19.247.76:22222/live/uch6/index.m3u8
-台视,http://162.19.247.76:22222/live/taishi/index.m3u8
-中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
-天映经典台,http://162.19.247.76:22222/live/tyjd/index.m3u8
-东森戏剧台,http://162.19.247.76:22222/live/dsxj/index.m3u8
-东森电影台,http://162.19.247.76:22222/live/dsdyt/index.m3u8
-东森洋片台,http://162.19.247.76:22222/live/dsypt/index.m3u8
-欢喜台,http://162.19.247.76:22222/live/uch3/index.m3u8
-AOD,http://162.19.247.76:22222/live/uch7/index.m3u8
-华视,http://162.19.247.76:22222/live/huashi/index.m3u8
-无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
-东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
-东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
-东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
-天映经典,http://162.19.247.76:22222/live/tyjd/index.m3u8
-中天娱乐,http://162.19.247.76:22222/live/ztyl/index.m3u8
-中天亚洲,http://162.19.247.76:22222/live/ztyz/index.m3u8
-翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
-无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
-j2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
-纬来体育,http://123.51.149.68:18509/0.m3u8
-东森财经新闻,http://123.51.149.68:18515/0.m3u8
-NHK,http://123.51.149.68:18525/0.m3u8
-东森戏剧,http://123.51.149.68:18538/0.m3u8
-人间卫视,http://123.51.149.68:8507/0.m3u8
-龙华戏剧,http://123.51.149.68:8509/0.m3u8
-龙华日韩,http://123.51.149.68:8513/0.m3u8
-八大第一,http://123.51.149.68:18539/0.m3u8
-东风37,http://123.51.149.68:18560/0.m3u8
-大爱,http://123.51.149.68:18567/0.m3u8
-民视新闻,http://123.51.149.68:18663/0.m3u8
-三立新闻,http://123.51.230.124:8531/.m3u8
-MoMo亲子,http://123.51.230.124:8536/.m3u8
-三立都会台,http://123.51.230.124:8535/.m3u8
-壹新闻,http://123.51.230.124:8550/.m3u8
-三立台湾台,http://123.51.230.124:8561/.m3u8
-非凡新闻,http://123.51.230.124:8567/.m3u8
-龙华卡通,http://123.51.230.124:8600/.m3u8
-
-
-
+凤凰中文162,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰资讯162,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+凤凰香港162,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+翡翠台162,http://162.19.247.76:22222/live/tvbfc/index.m3u8
+翡翠台162,http://162.19.247.76:22222/live/tvbfc/index.m3u8
+无线新闻162,http://162.19.247.76:22222/live/tvbnews/index.m3u8
+无线新闻162,http://162.19.247.76:22222/live/tvbnews/index.m3u8
+J2-162,http://162.19.247.76:22222/live/tvbj2/index.m3u8
+TVB-J5-162,http://162.19.247.76:22222/live/tvbj5/index.m3u8
+台视162,http://162.19.247.76:22222/live/taishi/index.m3u8
+中视162,http://162.19.247.76:22222/live/zhongshi/index.m3u8
+中天娱乐162,http://162.19.247.76:22222/live/ztyl/index.m3u8
+东森戏剧162,http://162.19.247.76:22222/live/dsxj/index.m3u8
+东森电影162,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+东森洋片台162,http://162.19.247.76:22222/live/dsypt/index.m3u8
+华视162,http://162.19.247.76:22222/live/huashi/index.m3u8
+民视新闻-123,http://123.51.149.68:18663/0.m3u8
+东森财经新闻123,http://123.51.149.68:18515/0.m3u8
+东风37-123,http://123.51.149.68:18560/0.m3u8
+NHK123,http://123.51.149.68:18525/0.m3u8
 
 
 
