@@ -118,6 +118,20 @@ MOMO综合,rtmp://219.80.97.77/sat/tv761
 博斯网球,rtmp://219.80.97.77/sat/md011  
 博斯网球,rtmp://119.81.124.89/sat/md041
 
+港台EPG,#genre#
+
+无线新闻台EPG0514,https://epg.pw/stream/8788765e23ff2af01e1210a9739b8167f9c3e9f1589252f9fd8b49b8c6d9355e.m3u8
+无线新闻台EPG0514,https://epg.pw/stream/e8ae7e420e166523f14ea6e341bd7c7ccfc2142f81b905d119121c6db9c779fc.m3u8
+无线翡翠台EPG0514,https://epg.pw/stream/4f21f075741cce1e1a2a6c95ea64be7205ce525cfc071f04aa8897f00a85e305.ctv
+无线J2台EPG0514,https://epg.pw/stream/a8be3c86463b3118ae84e097f3ca03a268009ab3a0d11117cf7f46db9cfdcead.ctv
+无线财经体育资讯台EPG0514,https://epg.pw/stream/42766471b0c4859a32daabaf2993469909979c97153b22500734d47ac934ea70.m3u8
+无线财经体育资讯台EPG0514,https://epg.pw/stream/78de2825f146c5b465f83bff1408375faec5a29181fdce2b05bbaeb8d4dce6aa.m3u8
+无线明珠台http://183.238.66.1:9090/live/1351_4500.m3u8?t=0OgMrvQ1pCDopjeG91Ve4A==&u=18664735406&p=1&pid=&cid=364&d=6f9b30ce4249b041&sid=SN4OJbdNAIeKf6eeTbhf/A==&r=20230514155433&e=20230514215438&nc=Vv1b2DOEIofT&a=1&v=2&isSuma=1&hlsSessionID=17024452686044858766&srchost=172.16.149.181:8060&gid=KA7OJQHD%2FTMZWpQBWRCwDw%3D%3D
+
+
+
+
+
 
 港台CDNHKDTMB,#genre#
 
