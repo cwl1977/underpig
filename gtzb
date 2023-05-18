@@ -1,5 +1,6 @@
 港台0516时效,#genre#
 
+香港开电视-FANTV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 TVB翡翠台JDSHIPIN,http://r.jdshipin.com/62WM7
 翡翠台[1920x1080]SUIXIAOBIN,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
 无线新闻台EPG0514,https://epg.pw/stream/e8ae7e420e166523f14ea6e341bd7c7ccfc2142f81b905d119121c6db9c779fc.m3u8
@@ -73,6 +74,27 @@ UnⅰverseTV-JCQLIVE,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9
 中国环球电视LIVECGTN,http://live.cgtn.com/500/prog_index.m3u8
 
 
+
+港人话,#genre#
+
+翡翠台PULL0518,http://pull-l3-cny.douyincdn.com/live/I8NmAJdhktvb.m3u8
+翡翠台CDN,http://cdn.hklive.tv/xxxx/81/index.m3u8
+无线新闻台PULL0518,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-127406a1-8537-4fe6-8b05-c80fac079141.m3u8
+有线新闻台UC6,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻台61,http://61.10.2.144/live_freedirect/freehd209_h.live/playlist.m3u8
+有线财经资讯台PULL,http://pull-l3-cny.douyincdn.com/live/I8NmAJduy5564002344.m3u8
+有线新闻台PULL,http://pull-l3-cny.douyincdn.com/live/daddajjoj55108.m3u8
+HOYTV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+VIUTV6,http://cdn.hklive.tv/xxxx/96/index.m3u8
+澳门莲花NETTGPRO,http://nettvpro.live/hls/lotustv.php
+天映频道,http://210.210.155.37/dr9445/h/h14/index.m3u8
+天映经典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+GBNEWS,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/live.m3u8
+NHKLIVE,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+PET,https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
+
+
 台湾61源,#genre#
 
 台湾25-61,http://61.221.81.93:8520/hls/65/807/ch843.m3u8
@@ -131,6 +153,8 @@ ViuTVSix,http://cdn.hkdtmb.com/raw/96.ts
 HOY-TV,http://cdn.hkdtmb.com/raw/77.ts
 HOY-TV資訊台,http://cdn.hkdtmb.com/raw/78.ts
 香港國際財經台,http://cdn.hkdtmb.com/raw/76.ts
+
+
 
 
 YT源,#genre#
