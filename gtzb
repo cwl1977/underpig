@@ -2,10 +2,8 @@
 
 香港开电视-FANTV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 TVB翡翠台JDSHIPIN,http://r.jdshipin.com/62WM7
-翡翠台[1920x1080]SUIXIAOBIN,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
 无线新闻台EPG0514,https://epg.pw/stream/e8ae7e420e166523f14ea6e341bd7c7ccfc2142f81b905d119121c6db9c779fc.m3u8
 无线新闻台EPG0514,https://epg.pw/stream/8788765e23ff2af01e1210a9739b8167f9c3e9f1589252f9fd8b49b8c6d9355e.m3u8
-无线J2台EPG0514,https://epg.pw/stream/a8be3c86463b3118ae84e097f3ca03a268009ab3a0d11117cf7f46db9cfdcead.ctv
 无线财经体育资讯台EPG0514,https://epg.pw/stream/42766471b0c4859a32daabaf2993469909979c97153b22500734d47ac934ea70.m3u8
 无线财经体育资讯台EPG0514,https://epg.pw/stream/78de2825f146c5b465f83bff1408375faec5a29181fdce2b05bbaeb8d4dce6aa.m3u8
 无线明珠台183，http://183.238.66.1:9090/live/1351_4500.m3u8?t=0OgMrvQ1pCDopjeG91Ve4A==&u=18664735406&p=1&pid=&cid=364&d=6f9b30ce4249b041&sid=SN4OJbdNAIeKf6eeTbhf/A==&r=20230514155433&e=20230514215438&nc=Vv1b2DOEIofT&a=1&v=2&isSuma=1&hlsSessionID=17024452686044858766&srchost=172.16.149.181:8060&gid=KA7OJQHD%2FTMZWpQBWRCwDw%3D%3D
@@ -97,22 +95,10 @@ PET,https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
 
 港台梯,#genre#
 
-翡翠台1@1080p,https://epg.pw/stream/87f2b8bed02e22c30fd3e7d673e1bde545eda36e7b62aa6cb8e715bc82ac1e91.ctv
-翡翠台1@720p,https://epg.pw/stream/66a4e808a7641249a9ee7c9f7c6373708050d0bda0e94d809e32f12dfc3712fd.ctv
 翡翠台2@1080p,http://radius.8866.org:800/hls/80/index.m3u8
 翡翠台2@720p,http://r.jdshipin.com/n90gt
 翡翠台3@1080p,http://r.jdshipin.com/62WM7
-翡翠台3@720p,http://107.151.203.111:2209/135/hk.php?id=tvbfct
-明珠台(GD),http://192.168.31.254:5678/gudou.php?phone=13790843818&ptoken=1EmWchNoze7OJaiZMXHYuQ==&pserialnumber=950d8b2ef3ab1ad1&cid=364&id=1351_4500
-astro-爱奇艺,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571198&extension=ts
-astro-双星,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571191&extension=ts
-astro-小太阳,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571230&extension=ts
-astro-AOD-351,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571226&extension=ts
-astro-AOD-352,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571225&extension=ts
-TVB-翡翠台,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571187&extension=ts
-TVB-经典台,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571197&extension=ts
-TVB-星河台,http://lcx-olt.8866.org:8181/tsfile/live/1004_1.m3u8
-TVB-娱乐新闻台,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571188&extension=ts
+
 有线新闻61,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 TVBS新闻38,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻38-1,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
@@ -132,12 +118,8 @@ TVBS亞洲38-1,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 台视新闻HD38,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻HD38-1,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台湾番薯台61,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-探索ROYX,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571210&extension=ts
-探索亚洲ROYX,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571181&extension=ts
-天映ROYX,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571218&extension=ts
-天映经典ROYX,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571182&extension=ts
 唯心電视CCDNTECH,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-中天亚洲台ROYX,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571212&extension=ts
+
 Fuji-TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
 Gunma-TV,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 J-Sports-1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
