@@ -16,9 +16,13 @@ TVB翡翠台JDSHIPIN,http://r.jdshipin.com/62WM7
 澳门综艺,http://61.244.22.4/ch6/_definst_/hd_ch6.live/playlist.m3u8 
 澳门体育,http://61.244.22.4/ch4/sport_ch4.live/master.m3u8
 
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
-TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
+
+TVBS新闻38,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻38-1,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻38-2,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS亞洲38,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS亞洲38-1,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
@@ -93,16 +97,10 @@ PET,https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
 
 港台梯,#genre#
 
-翡翠台2@1080p,http://radius.8866.org:800/hls/80/index.m3u8
 翡翠台2@720p,http://r.jdshipin.com/n90gt
 翡翠台3@1080p,http://r.jdshipin.com/62WM7
-
 有线新闻61,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-TVBS新闻38,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻38-1,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻38-2,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-TVBS亞洲38,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS亞洲38-1,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+
 大爱1台PULL,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱1台PULL,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
 大爱2台PULL,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
