@@ -123,18 +123,43 @@ UnⅰverseTV-JCQLIVE,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9
 
 港人话,#genre#
 
-翡翠台CDN,http://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠台HKLIVE,http://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠台HKDTMB,http://cdn.hkdtmb.com/hls/81/index.m3u8
+翡翠台HKDTMB-1,http://cdn.hkdtmb.com/raw/81.ts
+无线新闻台HKLIVE,http://cdn.hklive.tv/xxxx/83/index.m3u8
+無綫新聞台HKDTMB,http://cdn.hkdtmb.com/raw/83.ts
+無綫財經·資訊台HKDTMB,http://cdn.hkdtmb.com/raw/85.ts
+J2台HKDTMB,http://cdn.hkdtmb.com/hls/82/index.m3u8
+J2台HKDTMB-1,http://cdn.hkdtmb.com/raw/82.ts
+无线明珠台HKLIVE,http://cdn.hklive.tv/xxxx/84/index.m3u8
+无线明珠台HKDTMB,http://cdn.hkdtmb.com/raw/84.ts
+香港国际财经台HKLIVE,http://cdn.hklive.tv/xxxx/76/index.m3u8
+香港國際財經台HKDTMB,http://cdn.hkdtmb.com/raw/76.ts
+HOYTV-HKLIVE,http://cdn.hklive.tv/xxxx/77/index.m3u8
+HOYTV-HKDTMB,http://cdn.hkdtmb.com/raw/77.ts
+HOYTV資訊台-HKDTMB,http://cdn.hkdtmb.com/raw/78.ts
+VIUTV-HKLIVE,http://cdn.hklive.tv/xxxx/99/index.m3u8
+ViuTV-HKDTMB,http://cdn.hkdtmb.com/raw/99.ts
+VIUTV6-HKLIVE,http://cdn.hklive.tv/xxxx/96/index.m3u8
+ViuTV6-HKDTMB,http://cdn.hkdtmb.com/raw/96.ts
+[RTHK]港台電視31-HKDTMB,http://cdn.hkdtmb.com/raw/31.ts
+[RTHK]港台電視32-HKDTMB,http://cdn.hkdtmb.com/raw/32.ts
+[RTHK]港台電視33-HKDTMB,http://cdn.hkdtmb.com/raw/33.ts
+[RTHK]CGTN紀錄頻道-HKDTMB,http://cdn.hkdtmb.com/raw/34.ts
+
+
+
 有线新闻台UC6,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻台61,http://61.10.2.144/live_freedirect/freehd209_h.live/playlist.m3u8
 HOYTV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-VIUTV6,http://cdn.hklive.tv/xxxx/96/index.m3u8
-澳门莲花NETTGPRO,http://nettvpro.live/hls/lotustv.php
+澳门莲花NETTVPRO,http://nettvpro.live/hls/lotustv.php
 天映频道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映经典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 GBNEWS,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/live.m3u8
 NHKLIVE,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 PET,https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
+
 
 
 港台梯,#genre#
@@ -266,22 +291,6 @@ discovery61,http://61.221.81.93:8078/hls/31/80/discovery.m3u
 
 
 
-港台CDNHKDTMB,#genre#
-
-翡翠台,http://cdn.hkdtmb.com/raw/81.ts
-J2台,http://cdn.hkdtmb.com/raw/82.ts
-無綫新聞台,http://cdn.hkdtmb.com/raw/83.ts
-明珠台,http://cdn.hkdtmb.com/raw/84.ts
-無綫財經·資訊台,http://cdn.hkdtmb.com/raw/85.ts
-ViuTV,http://cdn.hkdtmb.com/raw/99.ts
-ViuTVSix,http://cdn.hkdtmb.com/raw/96.ts
-[RTHK]港台電視31,http://cdn.hkdtmb.com/raw/31.ts
-[RTHK]港台電視32,http://cdn.hkdtmb.com/raw/32.ts
-[RTHK]港台電視33,http://cdn.hkdtmb.com/raw/33.ts
-[RTHK]CGTN紀錄頻道,http://cdn.hkdtmb.com/raw/34.ts
-HOY-TV,http://cdn.hkdtmb.com/raw/77.ts
-HOY-TV資訊台,http://cdn.hkdtmb.com/raw/78.ts
-香港國際財經台,http://cdn.hkdtmb.com/raw/76.ts
 
 
 
