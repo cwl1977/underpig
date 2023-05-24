@@ -25,6 +25,26 @@ VIUTV6-HKLIVE,http://cdn.hklive.tv/xxxx/96/index.m3u8
 香港國際財經台HKDTMB,http://cdn.hkdtmb.com/raw/76.ts
 
 
+香港地波DTMB,#genre#
+
+NOW新闻台(d),http://cdn.hkdtmb.com/hls/332/index.m3u8
+有线新闻台(d),http://cdn.hkdtmb.com/hls/109/index.m3u8
+无线新闻台(d),http://cdn.hkdtmb.com/hls/83/index.m3u8
+翡翠台(d),http://cdn.hkdtmb.com/hls/81/index.m3u8
+J2台(d),http://cdn.hkdtmb.com/hls/82/index.m3u8
+明珠台(d),http://cdn.hkdtmb.com/hls/84/index.m3u8
+无线财经资讯台(d),http://cdn.hkdtmb.com/hls/85/index.m3u8
+有线财经资讯台(d),http://cdn.hkdtmb.com/hls/108/index.m3u8
+VIUTV(d),http://cdn.hkdtmb.com/hls/99/index.m3u8
+VIUSIX(d),http://cdn.hkdtmb.com/hls/96/index.m3u8
+HOYTV(d),http://cdn.hkdtmb.com/hls/77/index.m3u8
+HOYTV资讯台(d),http://cdn.hkdtmb.com/hls/78/index.m3u8
+RTHK港台电视31(d),http://cdn.hkdtmb.com/hls/31/index.m3u8
+RTHK港台电视32(d),http://cdn.hkdtmb.com/hls/32/index.m3u8
+
+
+
+
 港台0516时效,#genre#
 
 翡翠台PULL0518,http://pull-l3-cny.douyincdn.com/live/I8NmAJdhktvb.m3u8
