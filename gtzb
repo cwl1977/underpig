@@ -1,83 +1,19 @@
-港人话,#genre#
-
-翡翠台HKDTMB,http://cdn.hkdtmb.com/hls/81/index.m3u8
-翡翠台HKLIVE,http://cdn.hklive.tv/xxxx/81/index.m3u8
-翡翠台HKDTMB-1,http://cdn.hkdtmb.com/raw/81.ts
-無綫新聞台HKDTMB,http://cdn.hkdtmb.com/raw/83.ts
-无线新闻台HKLIVE,http://cdn.hklive.tv/xxxx/83/index.m3u8
-無綫財經·資訊台HKDTMB,http://cdn.hkdtmb.com/raw/85.ts
-J2台HKDTMB,http://cdn.hkdtmb.com/hls/82/index.m3u8
-J2台HKDTMB-1,http://cdn.hkdtmb.com/raw/82.ts
-无线明珠台HKDTMB,http://cdn.hkdtmb.com/raw/84.ts
-无线明珠台HKLIVE,http://cdn.hklive.tv/xxxx/84/index.m3u8
-HOYTV-HKDTMB,http://cdn.hkdtmb.com/raw/77.ts
-HOYTV-HKLIVE,http://cdn.hklive.tv/xxxx/77/index.m3u8
-HOYTV資訊台-HKDTMB,http://cdn.hkdtmb.com/raw/78.ts
-ViuTV-HKDTMB,http://cdn.hkdtmb.com/raw/99.ts
-VIUTV-HKLIVE,http://cdn.hklive.tv/xxxx/99/index.m3u8
-ViuTV6-HKDTMB,http://cdn.hkdtmb.com/raw/96.ts
-VIUTV6-HKLIVE,http://cdn.hklive.tv/xxxx/96/index.m3u8
-[RTHK]港台電視31-HKDTMB,http://cdn.hkdtmb.com/raw/31.ts
-[RTHK]港台電視32-HKDTMB,http://cdn.hkdtmb.com/raw/32.ts
-[RTHK]港台電視33-HKDTMB,http://cdn.hkdtmb.com/raw/33.ts
-[RTHK]CGTN紀錄頻道-HKDTMB,http://cdn.hkdtmb.com/raw/34.ts
-香港国际财经台HKLIVE,http://cdn.hklive.tv/xxxx/76/index.m3u8
-香港國際財經台HKDTMB,http://cdn.hkdtmb.com/raw/76.ts
-nhk华语台,https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/zh/playlist.m3u8
-
-香港地波DTMB,#genre#
-
-翡翠台(s),http://stream.hkanime.live/raw/81.ts?token=O5rmfx9GN6OQP9AFPbOBww&expires=1728310980
-J2台(s),http://stream.hkanime.live/raw/82.ts?token=ViEHBNUI25vVYbvpVw0jtQ&expires=1728310980
-無綫新聞台(s),http://stream.hkanime.live/raw/83.ts?token=uCtrbsTuEro4SS-LEJ97UQ&expires=1728310980
-明珠台(s),http://stream.hkanime.live/raw/84.ts?token=NCPW99TzFcKlfWXBdoAJCg&expires=1728310980
-無綫財經·資訊台(s),http://stream.hkanime.live/raw/85.ts?token=eAw1O0E3u5u3LdTn1O2BHQ&expires=1728310980
-ViuTV(s),http://stream.hkanime.live/raw/99.ts?token=8ALO1pch6TxmYcR52hEzfg&expires=1728310980
-ViuTVSix(s),http://stream.hkanime.live/raw/96.ts?token=u24LGWXBwwIPhrdlHDUHdQ&expires=1728310980
-HOY-TV(s),http://stream.hkanime.live/raw/77.ts?token=2nu1FreXMQACpk1Jp5wsYA&expires=1728310980
-HOY-TV資訊台(s),http://stream.hkanime.live/raw/78.ts?token=6mWcTOxKlVZPCyfwimd5sQ&expires=1728310980
-港台電視31(s),http://stream.hkanime.live/raw/31.ts?token=SpyyVsiPHY9ci6PbN3OmAg&expires=1728310980
-港台電視32(s),http://stream.hkanime.live/raw/32.ts?token=SM6RsVElKoZObhGzbQ6fcw&expires=1728310980
-港台電視33(s),http://stream.hkanime.live/raw/33.ts?token=wgP4IUhiNbDWNaHtiGdZ2A&expires=1728310980
-CGTN紀錄頻道(s),http://stream.hkanime.live/raw/34.ts?token=FmnYKZpbWH3xSeL7-dKw2w&expires=1728310980
-香港國際財經台(s),http://stream.hkanime.live/raw/76.ts?token=l-u2lEZKO8kuAYllmD2Q9Q&expires=1728310980
-
-
-NOW新闻台(d),http://cdn.hkdtmb.com/hls/332/index.m3u8
-有线新闻台(d),http://cdn.hkdtmb.com/hls/109/index.m3u8
-无线新闻台(d),http://cdn.hkdtmb.com/hls/83/index.m3u8
-翡翠台(d),http://cdn.hkdtmb.com/hls/81/index.m3u8
-J2台(d),http://cdn.hkdtmb.com/hls/82/index.m3u8
-明珠台(d),http://cdn.hkdtmb.com/hls/84/index.m3u8
-无线财经资讯台(d),http://cdn.hkdtmb.com/hls/85/index.m3u8
-有线财经资讯台(d),http://cdn.hkdtmb.com/hls/108/index.m3u8
-VIUTV(d),http://cdn.hkdtmb.com/hls/99/index.m3u8
-VIUSIX(d),http://cdn.hkdtmb.com/hls/96/index.m3u8
-HOYTV(d),http://cdn.hkdtmb.com/hls/77/index.m3u8
-HOYTV资讯台(d),http://cdn.hkdtmb.com/hls/78/index.m3u8
-RTHK港台电视31(d),http://cdn.hkdtmb.com/hls/31/index.m3u8
-RTHK港台电视32(d),http://cdn.hkdtmb.com/hls/32/index.m3u8
-
-
-
 
 港台0516时效,#genre#
 
-翡翠台PULL0518,http://pull-l3-cny.douyincdn.com/live/I8NmAJdhktvb.m3u8
-有线财经资讯台PULL,http://pull-l3-cny.douyincdn.com/live/I8NmAJduy5564002344.m3u8
 有线新闻台PULL,http://pull-l3-cny.douyincdn.com/live/daddajjoj55108.m3u8
+有线财经资讯台PULL0518,http://pull-l3-cny.douyincdn.com/live/I8NmAJdhktvb.m3u8
+有线财经资讯台PULL,http://pull-l3-cny.douyincdn.com/live/I8NmAJduy5564002344.m3u8
 有线新闻台UC6,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻台61,http://61.10.2.144/live_freedirect/freehd209_h.live/playlist.m3u8
 HOYTV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-澳门莲花NETTVPRO,http://nettvpro.live/hls/lotustv.php
-天映频道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映经典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 
 TVBS新闻38,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻38-1,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻38-2,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻38-1,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻38-2,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS亞洲38,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲38-1,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 民视新闻HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
@@ -153,32 +89,6 @@ PET,https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
 
 
 
-台湾61源,#genre#
-
-八大第一61,http://61.221.81.93:8078/hls/38/80/gtvfirst.m3u8
-东森新闻61,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
-八大戏剧-61,http://61.221.81.93:8078/hls/38/80/gtvdrama.m3u8
-中视61,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
-东森戏剧61,http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
-NHK61,http://61.221.81.93:8078/hls/32/80/nhk.m3u8
-HBO61,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
-国家地理61,http://61.221.81.93:8078/hls/12/80/ngc.m3u8
-年代MUCH61,http://61.221.81.93:8078/hls/27/80/much.m3u8
-中天综合61,http://61.221.81.93:8078/hls/35/80/cti.m3u8
-八大综合台61,http://61.221.81.93:8078/hls/38/80/gtv.m3u8
-东森综合61,http://61.221.81.93:8078/hls/34/80/ebc.m3u8
-民视61,http://61.221.81.93:8078/hls/40/80/ftv.m3u8
-ELEVEN1-61高清,http://61.221.81.93:8078/hls/25/80/esport.m3u8
-ELEVEN2-61高清,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-cinemax61,http://61.221.81.93:8078/hls/22/80/cinemax.m3u8
-starWold61,http://61.221.81.93:8078/hls/11/80/fox.m3u8
-凤凰资讯61,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-凤凰中文61,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-Bloomberg61,http://61.221.81.93:8078/hls/43/80/bloomber.m3u8
-babytv61,http://61.221.81.93:8078/hls/35/80/babytv.m3u8
-CNBC61,http://61.221.81.93:8078/hls/24/80/cnbc90.m3u8
-
-
 
 香港198(晴)-0527源,#genre#
 
@@ -209,8 +119,6 @@ TV8-1-0527,http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&
 
 台湾综合198(晴)-0527源,#genre#
 
-台视198-0527,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
-台视50-0527,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 TVBS-HD50-0527,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 TVBS-HD198-0527,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 TVBS欢乐台(备份)198-0527,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
