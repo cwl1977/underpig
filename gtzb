@@ -1,11 +1,12 @@
 GTSC2022时效测试-0824,#genre#
 
+HOY资讯台1,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 NOW新闻台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=c02
-HOY资讯台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h16
-HOY资讯台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h17
+HOYTV1-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h16
+HOY资讯台2-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h17
 無綫新聞台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h04
 無綫新聞台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h06
-HOY TV-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h15
+HOYTV2-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h15
 翡翠台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h01
 翡翠台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h02
 無綫財經台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h07
