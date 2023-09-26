@@ -1,7 +1,5 @@
 GTSC2022时效测试-0824,#genre#
 
-地理频道-80831,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8
-地理频道-80831,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8
 NOW新闻台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h20
 HOYTV原声-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h16
 HOYTV粤语-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h15
@@ -20,6 +18,8 @@ CCTV13-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h12
 澳视澳门-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h08
 凤凰香港1-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h18
 凤凰香港2-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h19
+地理频道-80831,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8
+地理频道-80831,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8
 
 中天新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t03
 華視新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t04
@@ -77,8 +77,6 @@ RTHK33-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h11
 港台-198玛斯特0916,#genre#
 
 翡翠台-198玛斯特0916,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-无线新闻台-198玛斯特0916,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
-J2-198玛斯特0916,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 TVB星河台-198玛斯特0916,http://198.16.100.90:8278/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
 TVB星河-198玛斯特0916,http://198.16.100.90:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E4984839049848390&ct=19249&tsum=690b607d57418e55ba5fdd7814412e81
 美亚电影-198玛斯特0916,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
