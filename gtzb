@@ -1,33 +1,80 @@
-HKDTMB测试-1120,#genre#
+GTSC2022时效测试-0824,#genre#
 
-Now 新聞台-hkdtmb1120,http://cdn-02.hkdtmb.com/332/index.m3u8?token=EbmsLEWIa-99lZzeKfCX8Q&expires=1730433406
-翡翠台-hkdtmb1120,https://u3.dtmb-s1.cc/81/index.m3u8?token=jSQEbKv_167WN9yspG63xw&expires=1698275225
-翡翠台 4K-hkdtmb1120,https://cdn.hkdtmb.com/dtmb/81/index.m3u8?token=Z_ySuy2l5-pb6IeVqbQSZw&expires=1702699296#http://cdn-02.hkdtmb.com/981/index.m3u8?
-無綫新聞台-hkdtmb1120,https://cdn.hkdtmb.com/dtmb/83/index.m3u8?token=TffpMb6Xz1WQmXqFaC9VKA&expires=1702827624
-無綫財經·資訊台-hkdtmb1120,https://cdn.hkdtmb.com/dtmb/85/index.m3u8?token=xhaiw-AJeL3ObDBwaJTWhg&expires=1702827693
-J2-hkdtmb1120,https://u1.dtmb-s1.cc/82/index.m3u8?token=DoojyVFE4QchaRZBhmNbsA&expires=1698275592
-明珠台（丽音）-hkdtmb1120,https://cdn.hkdtmb.com/dtmb/84/index.m3u8?token=Bd7fL8eza-EavSMlGPbcvQ&expires=1702827644
-明珠台(原声)-hkdtmb1120,https://cdn.hkdtmb.com/dtmb/84b/index.m3u8?token=kgtaFJVIrPMdoKqD7yHg_w&expires=1702827664
-HOY TV-hkdtmb1120,https://cdn.hkdtmb.com/dtmb/77/index.m3u8?token=-1X0elDA64O5U-5Dk7hfKQ&expires=1702827572
-HOY TV 資訊台-hkdtmb1120,https://cdn.hkdtmb.com/dtmb/78/index.m3u8?token=YUvYdygA1u28C71jKxjBaA&expires=1702827591
-HOY香港國際財經台-hkdtmb1120,https://cdn.hkdtmb.com/dtmb/76/index.m3u8?token=eujXYi4a3phMgz-qjo1NMQ&expires=1702827515
-Viu頻道-hkdtmb1120,http://cdn-02.hkdtmb.com/102/index.m3u8?token=cy0r96-_IMvaqKHvFTfWPw&expires=1730433406
-ViuTV-hkdtmb1120,https://u2.dtmb-s1.cc/99/index.m3u8?token=68ZgNzMI-N_64QecM0_nfg&expires=1698275398#https://u3.dtmb-s1.cc/99/index.m3u8?token=ZEzrrixr95D4xHHNbj8eXw&expires=1698275407
-Viu Six-hkdtmb1120,https://u2.dtmb-s1.cc/96/index.m3u8?token=2PRHJGb5N7aGmvZzJjqjYg&expires=1698275536
-Hands Up Channel-hkdtmb1120,http://cdn-02.hkdtmb.com/100/index.m3u8?token=XGFynheXSZSmKExjp7h26g&expires=1730433406
-美亞電影台-hkdtmb1120,http://cdn-02.hkdtmb.com/201/index.m3u8?token=gw4y_sszoSTYeAuSlphZKQ&expires=1730433406
-Animax-hkdtmb1120,http://cdn-02.hkdtmb.com/504/index.m3u8?token=oL1GYQsVx51xOwWFxLlmfw&expires=1730433406
-token=EQvREBozFDFyh6WcRxupHQ&expires=1730433406
-港台电视31-hkdtmb1120,https://cdn.hkdtmb.com/dtmb/31/index.m3u8?token=4d88LCUxDuy-LaREAEEYaQ&expires=1702827431
-港台電視32-hkdtmb1120,https://cdn.hkdtmb.com/dtmb/32/index.m3u8?token=GQUcgpsQI9SdylfCHTbbPA&expires=1702827455
-港台电视34-hkdtmb1120,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
-cctv-1(港澳版)-hkdtmb1120,https://cdn.hkdtmb.com/dtmb/33/index.m3u8?token=w_TIhpsw0bw2K92odAV-mw&expires=1702972822
-CGTN紀錄頻道-hkdtmb1120,http://cdn-m3u.hkdtmb.com/34/index.m3u8?token=dB1nr2Lx5gHywZx0d6SfxQ&expires=1730433406
-Now 體育 英超1台-hkdtmb1120,http://cdn-02.hkdtmb.com/621/index.m3u8?token=HGOtQIF_tx0lZ74Ra3FbmQ&expires=1730433406
-Now 體育 精選-hkdtmb1120,http://cdn-02.hkdtmb.com/630/index.m3u8?token=9AS6n0FAFALASYKgW4Xb0Q&expires=1730433406
-Now 體育 1台-hkdtmb1120,http://cdn-02.hkdtmb.com/631/index.m3u8?token=O4zcwUBaL_uNRrnH8gHzXw&expires=1730433406
-Now 體育 2台-hkdtmb1120,http://cdn-02.hkdtmb.com/632/index.m3u8?token=n3pe-i3I1xuWQjsXVUOVag&expires=1730433406
-Now 體育 3台-hkdtmb1120,http://cdn-02.hkdtmb.com/633/index.m3u8?token=3KkX-n5pWSSNzHCroiiFCQ&expires=1730433406
+NOW新闻台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h08
+NOW财经台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h25
+HOYTV76-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h15
+HOYTV77-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h16
+HOYTV78资讯台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h17
+翡翠台1-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h01
+翡翠台2-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h02
+無綫新聞台1-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h04
+無綫新聞台2-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h06
+無綫財經台1-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h07
+無綫財經台2-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h05
+J2-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h03
+TVB千禧经典台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h23
+TVB星河台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h22
+TVB娱乐新闻台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h10
+TVBMYTV1-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h21
+VIUTV-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h09
+RTHK31-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h11
+RTHK32-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h12
+RTHK33-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h13
+天映频道-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h24
+澳门莲花-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h20
+CCTV13-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h14
+凤凰1-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h18
+凤凰2-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h19
+中天新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t03
+台视新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t13
+TVBS新闻台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t14
+東森新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t01
+東森財經新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t02
+TVBSHD-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t15
+TVBS欢乐台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t16
+華視新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t04
+华視新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t05
+中視新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t06
+民视新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t07
+寰宇新聞台1-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t08
+寰宇新聞台2-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t09
+三立新聞1-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t10
+三立新聞2-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t12
+三立新聞+-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t11
+中天亚洲台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t17
+TVBS亚洲台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t18
+民視HD-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t19
+民視第一台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t20
+民視台湾台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t21
+FTV综艺台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t22
+FTV影剧台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t23
+FTV旅游台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t24
+三立台湾台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t25
+三立都会台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t26
+ABC News Australia-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e01
+ABC News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e02
+ANN News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e03
+Asianet News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e04
+BBC News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e05
+CNA News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e06
+CNN Live-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e07
+DW News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e08
+EURO News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e09
+Fox Live-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e10
+France 24 English-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e11
+GB News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e12
+Haber Turk-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e13
+NBC News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e14
+NHK World Japan-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e15
+SKY News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e16
+Radio Ticino-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e17
+Smithsonian Channel-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e18
+Love Nature-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e19
+Lego-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e20
+日本天气台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=c01
+NOW新闻台旧-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=c02
+RTHK32-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h10
+RTHK33-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h11
 
 
 TW38测试-1118,#genre#
@@ -274,83 +321,7 @@ Baby TV-1981109,http://198.16.100.90:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a
 Baby TV-1981109,http://198.16.100.90:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
 
 
-GTSC2022时效测试-0824,#genre#
 
-NOW新闻台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h08
-NOW财经台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h25
-HOYTV76-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h15
-HOYTV77-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h16
-HOYTV78资讯台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h17
-翡翠台1-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h01
-翡翠台2-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h02
-無綫新聞台1-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h04
-無綫新聞台2-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h06
-無綫財經台1-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h07
-無綫財經台2-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h05
-J2-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h03
-TVB千禧经典台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h23
-TVB星河台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h22
-TVB娱乐新闻台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h10
-TVBMYTV1-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h21
-VIUTV-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h09
-RTHK31-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h11
-RTHK32-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h12
-RTHK33-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h13
-天映频道-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h24
-澳门莲花-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h20
-CCTV13-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h14
-凤凰1-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h18
-凤凰2-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h19
-中天新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t03
-台视新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t13
-TVBS新闻台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t14
-東森新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t01
-東森財經新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t02
-TVBSHD-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t15
-TVBS欢乐台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t16
-華視新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t04
-华視新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t05
-中視新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t06
-民视新聞-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t07
-寰宇新聞台1-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t08
-寰宇新聞台2-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t09
-三立新聞1-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t10
-三立新聞2-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t12
-三立新聞+-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t11
-中天亚洲台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t17
-TVBS亚洲台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t18
-民視HD-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t19
-民視第一台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t20
-民視台湾台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t21
-FTV综艺台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t22
-FTV影剧台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t23
-FTV旅游台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t24
-三立台湾台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t25
-三立都会台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=t26
-ABC News Australia-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e01
-ABC News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e02
-ANN News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e03
-Asianet News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e04
-BBC News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e05
-CNA News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e06
-CNN Live-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e07
-DW News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e08
-EURO News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e09
-Fox Live-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e10
-France 24 English-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e11
-GB News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e12
-Haber Turk-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e13
-NBC News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e14
-NHK World Japan-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e15
-SKY News-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e16
-Radio Ticino-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e17
-Smithsonian Channel-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e18
-Love Nature-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e19
-Lego-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=e20
-日本天气台-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=c01
-NOW新闻台旧-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=c02
-RTHK32-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h10
-RTHK33-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=h11
 
 
 
