@@ -74,23 +74,6 @@ AFN亚洲食物-SC20220824,http://sc2022.stream-link.org/tv2306.php?id=c01
 
 
 
-TW38测试-1118,#genre#
-
-壹新闻-381118,http://38.207.160.104:11012/live.php?date=231117&id=nexttv
-中天新闻-381118,http://38.207.160.104:11012/live.php?date=231117&id=cti-news
-TVBS-381118,http://38.207.160.104:11012/live.php?date=231117&id=tvbs-hd
-TVBS新闻-381118,http://38.207.160.104:11012/live.php?date=231117&id=tvbs-news
-TVBS新闻-381118,rtmp://9sv1.mine.nu:1935/sat/tv551
-东森新闻-381118,http://38.207.160.104:11012/live.php?date=231117&id=ebc-news
-台视新闻-381118,http://38.207.160.104:11012/live.php?date=231117&id=ttv-news
-中视新闻-381118,http://38.207.160.104:11012/live.php?date=231117&id=ctv-news
-非凡新闻-381118,http://38.207.160.104:11012/live.php?date=231117&id=ustv-news
-寰宇新闻-381118,http://38.207.160.104:11012/live.php?date=231117&id=global-news
-年代新闻-381118,http://38.207.160.104:11012/live.php?date=231117&id=era-news
-镜新闻-381118,http://38.207.160.104:11012/live.php?date=231117&id=mnews
-
-
-
 玛斯特198测试-1109,#genre#
 
 翡翠台-1981109,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
@@ -98,10 +81,7 @@ TVBS新闻-381118,rtmp://9sv1.mine.nu:1935/sat/tv551
 翡翠台-1981109,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
 翡翠台-1981109,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 无线新闻台-1981109,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
-J2-1981109,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-J2-1981109,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 VIUTV6-1981109,http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
-
 台视新闻台-1981109,http://198.16.100.90:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
 中视新闻台-1981109,http://198.16.100.90:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 中视新闻台-1981109,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
